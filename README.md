@@ -3,7 +3,7 @@ Projeto desenvolvido por **Marcelo Savitski Junior** e **Gabriel Couto**
 
 ---
 
-![Imagem do Projeto]() <!-- Substitua "sua_imagem_aqui.jpg" pelo caminho ou link da imagem -->
+![Imagem do Projeto](./integracao-alexa/images/arquitetura_nodemcu.png)
 
 Este projeto visa implementar um sistema IoT utilizando a plataforma ESP8266, com controle remoto de um LED e suporte para atualizações OTA (Over-the-Air). O projeto é ideal para automação simples e serve como introdução prática ao uso do ESP8266.
 
